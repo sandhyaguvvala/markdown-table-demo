@@ -13,17 +13,17 @@
 <th>Cities</th>
 </tr>
 <tr>
-<td>John</td>
-<td>25</td>
-<td>New York</td>
+<td>sandhya</td>
+<td>21</td>
+<td>Hyd</td>
 </tr>
 <tr>
-<td>Alice</td>
+<td>bhanu</td>
 <td>30</td>
 <td>Los Angeles</td>
 </tr>
 <tr>
-<td>Bob</td>
+<td>Dharani</td>
 <td>35</td>
 <td>Chicago</td>
 </tr>
