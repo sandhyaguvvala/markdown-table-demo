@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Student Table</title>
+<!-- <title>Student Table</title> -->
 </head>
 <body>
 
