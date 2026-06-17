@@ -22,6 +22,3 @@
     </tr>
 </table>
 
-Output:
-
-Names	
