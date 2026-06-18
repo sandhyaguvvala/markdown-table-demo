@@ -1,4 +1,13 @@
 # markdown-table-demo
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Table</title>
+</head>
+<body>
+
+<h1>Student Table</h1>
+
 <table border="1">
     <tr>
         <th>Names</th>
@@ -22,3 +31,5 @@
     </tr>
 </table>
 
+</body>
+</html>
